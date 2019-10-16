@@ -1,0 +1,5 @@
+{
+  "name": "TeMoto Commander Proxy Server",
+  "description": "Captures Google Assistant and Amazon Alexa queries",
+  "repository": "https://github.com/RValner/temoto-commander-proxy.git",
+}
